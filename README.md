@@ -4,7 +4,7 @@
 
 This is the frontend application for Offnedietur, a service ticketing and request management system built with the MERN stack (MongoDB, Express, React, Node.js). The frontend provides an intuitive user interface for service to book tickets, create service requests, and communicate with administrators.
 
-- [Website - OffnedieTur.de](https://offnedietur.de)
+- [OffnedieTur.de Website](https://offnedietur.de)
 
 ## 🚀 Features
 
