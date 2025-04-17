@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+
+/* Ekleyin bu stilleri global CSS dosyanıza */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Carousel container için özel stiller */
+.carousel-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Carousel wrapper için özel stiller */
+.carousel-wrapper {
+  display: flex;
+  transition: transform 0.3s ease;
+}
